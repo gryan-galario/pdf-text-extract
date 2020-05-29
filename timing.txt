@@ -1,0 +1,12 @@
+Time Elapsed for Processing 2014_JLSS.pdf = 42.20451211929321 seconds
+Time Elapsed for Processing 2014_ug.pdf = 279.25223326683044 seconds
+Time Elapsed for Processing 2015_JLSS.pdf = 64.46075701713562 seconds
+Time Elapsed for Processing 2015_ug.pdf = 322.07916927337646 seconds
+Time Elapsed for Processing 2016_JLSS.pdf = 131.30610489845276 seconds
+Time Elapsed for Processing 2017_JLSS.pdf = 240.46565127372742 seconds
+Time Elapsed for Processing 2018_JLSS.pdf = 52.217564821243286 seconds
+Time Elapsed for Processing 2018_ug.pdf = 544.3112461566925 seconds
+Time Elapsed for Processing 2019_JLSS.pdf = 41.8656804561615 seconds
+Time Elapsed for Processing 2019_ug.pdf = 586.4036226272583 seconds
+Time Elapsed for Processing 2020_ug.pdf = 586.9957695007324 seconds
+Time Elapsed for all files (including combining): 2894.7691626548767

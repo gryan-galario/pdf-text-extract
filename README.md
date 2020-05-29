@@ -14,5 +14,7 @@ The PDFs are taken from [DOST SEI Scholarship Results](http://www.sei.dost.gov.p
 The script must be edited first in your computer before running, specifically **lines 10 and 11**.
 
 Requirements:
+
 Poppler: [Poppler Download Link](https://poppler.freedesktop.org/)
+
 PyTesseract: [tesseract-ocr GitHub Link](https://github.com/tesseract-ocr/tesseract)

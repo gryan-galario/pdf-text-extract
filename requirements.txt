@@ -1,0 +1,5 @@
+# Needed packages
+pandas
+opencv-python
+pillow
+pytesseract
